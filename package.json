@@ -1,0 +1,7 @@
+{
+    "name": "smkhambe",
+    "version": "1.0.0",
+    "bin":{
+        "smkhambe": "index.js"
+    } 
+}

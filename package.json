@@ -1,7 +1,11 @@
 {
     "name": "smkhambe",
     "version": "1.0.0",
-    "bin":{
+    "bin": {
         "smkhambe": "index.js"
-    } 
+    },
+    "type": "module",
+    "dependencies": {
+        "clear-any-console": "^1.16.2"
+    }
 }
